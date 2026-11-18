@@ -8,9 +8,11 @@
 
 ## 使用
 
-`examples/role.json` 保存了完整的原始装备响应（含 `status/detail`）。在项目目录执行即可计算这份数据：
+`examples/role.json` 保存了完整的原始装备响应（含 `status/detail`）。仓库已包含计算所需的 10 张完整表，克隆后即可运行：
 
 ```sh
+git clone https://github.com/JX3API/PanelCalculator.git
+cd PanelCalculator
 python -m panel_calculator --tables data/tables examples/role.json
 ```
 
@@ -87,7 +89,7 @@ result = calculator.calculate({"kungfuName": "花间游"}, pieces)
 
 读取使用 GBK、TAB 分隔，首行是表头；空白行跳过，表头和字段去除首尾空白，引号原样保留。多列使用从零计数的 `extra_下标`，缺列不补值；同 ID 后出现的记录覆盖先出现的记录。
 
-`data/tables/` 是本地数据目录，已加入 `.gitignore`，安装包也不包含游戏原始表。使用者需要自行提供同版本的数据。路径由调用方指定，代码不依赖迁移来源或开发机器的绝对路径。
+`data/tables/` 中的以上 10 张完整原表随仓库提供；其他表由 `.gitignore` 排除。Git 按二进制保存原表，保留 GBK 编码和原始换行。表格路径可通过 `--tables` 或 `Calculator()` 的参数指定。
 
 ## 代码与验证
 

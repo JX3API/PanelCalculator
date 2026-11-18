@@ -5,4 +5,15 @@ __pycache__/
 .tmp/
 build/
 dist/
-data/tables/
+/data/tables/**
+!/data/tables/**/
+!/data/tables/settings/item/Custom_Weapon.tab
+!/data/tables/settings/item/Custom_Armor.tab
+!/data/tables/settings/item/Custom_Trinket.tab
+!/data/tables/settings/item/Enchant.tab
+!/data/tables/settings/item/Set.tab
+!/data/tables/settings/item/Attrib.tab
+!/data/tables/settings/item/Other.tab
+!/data/tables/ui/scheme/case/Item.txt
+!/data/tables/ui/scheme/case/Skillevent.txt
+!/data/tables/ui/scheme/case/equipdb.txt
