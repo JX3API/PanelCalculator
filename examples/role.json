@@ -1,0 +1,164 @@
+{
+  "status": 200,
+  "detail": {
+    "bodyId": 6,
+    "bodyName": "萝莉",
+    "cacheTime": 1794375272,
+    "campId": 0,
+    "campName": "中立",
+    "equipList": [
+      {
+        "aColorDiamond": [
+          5,
+          74044
+        ],
+        "aMountDiamond": [
+          [
+            5,
+            24449
+          ],
+          [
+            5,
+            24449
+          ],
+          [
+            5,
+            24449
+          ]
+        ],
+        "dwPermanentEnchantID": 12212,
+        "dwTabIndex": 42143,
+        "dwTabType": 6,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 0,
+        "nStrengthLevel": 8
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 45814,
+        "dwTabType": 6,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 2,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 111135,
+        "dwTabType": 7,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 3,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 111129,
+        "dwTabType": 7,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 4,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 49395,
+        "dwTabType": 8,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 5,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 49407,
+        "dwTabType": 8,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 6,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 49407,
+        "dwTabType": 8,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 7,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 111111,
+        "dwTabType": 7,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 8,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 49401,
+        "dwTabType": 8,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 9,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 111123,
+        "dwTabType": 7,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 10,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 111117,
+        "dwTabType": 7,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 11,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 111105,
+        "dwTabType": 7,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 12,
+        "nStrengthLevel": 0
+      },
+      {
+        "aMountDiamond": [],
+        "dwPermanentEnchantID": 0,
+        "dwTabIndex": 4224,
+        "dwTabType": 6,
+        "dwTemporaryEnchantID": 0,
+        "nItemIndex": 23,
+        "nStrengthLevel": 0
+      }
+    ],
+    "equipType": "休闲",
+    "forceId": 2,
+    "forceName": "万花",
+    "globalId": "288230376159033247",
+    "kungfuId": "10021",
+    "kungfuName": "花间游",
+    "kungfuType": "DPS",
+    "roleId": "26468709",
+    "roleName": "夜温言@长安城",
+    "seasonName": "苍生铸世",
+    "serverName": "唯我独尊",
+    "showInfo": {
+      "showAvatar": "https://static.nicemoe.cn/cache/831a948857aaca7bce91a3a033c1768024f92454240a45d328.png",
+      "showHash": "e63f4408669a7208dc66218c242d6254",
+      "showIndex": 2
+    },
+    "tongName": "",
+    "zoneName": "电信区"
+  }
+}

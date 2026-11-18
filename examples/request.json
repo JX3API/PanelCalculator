@@ -1,0 +1,205 @@
+{
+  "kungfuName": "花间游",
+  "equipList": [
+    {
+      "aColorDiamond": [],
+      "aMountDiamond": [
+        [
+          5,
+          24447
+        ],
+        [
+          5,
+          24447
+        ],
+        [
+          5,
+          24447
+        ]
+      ],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 45860,
+      "dwTabType": 6,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 0,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [
+        [
+          5,
+          24447
+        ]
+      ],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 45853,
+      "dwTabType": 6,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 2,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [
+        [
+          5,
+          24447
+        ],
+        [
+          5,
+          24447
+        ]
+      ],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 111171,
+      "dwTabType": 7,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 3,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [
+        [
+          5,
+          24447
+        ],
+        [
+          5,
+          24447
+        ]
+      ],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 111165,
+      "dwTabType": 7,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 4,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [
+        [
+          5,
+          24447
+        ]
+      ],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 49413,
+      "dwTabType": 8,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 5,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 49425,
+      "dwTabType": 8,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 6,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 49425,
+      "dwTabType": 8,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 7,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [
+        [
+          5,
+          24447
+        ],
+        [
+          5,
+          24447
+        ]
+      ],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 111147,
+      "dwTabType": 7,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 8,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [
+        [
+          5,
+          24447
+        ]
+      ],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 49419,
+      "dwTabType": 8,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 9,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [
+        [
+          5,
+          24447
+        ],
+        [
+          5,
+          24447
+        ]
+      ],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 111159,
+      "dwTabType": 7,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 10,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [
+        [
+          5,
+          24447
+        ],
+        [
+          5,
+          24447
+        ]
+      ],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 111153,
+      "dwTabType": 7,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 11,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [
+        [
+          5,
+          24447
+        ],
+        [
+          5,
+          24447
+        ]
+      ],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 111141,
+      "dwTabType": 7,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 12,
+      "nStrengthLevel": 4
+    },
+    {
+      "aMountDiamond": [],
+      "dwPermanentEnchantID": 0,
+      "dwTabIndex": 100,
+      "dwTabType": 6,
+      "dwTemporaryEnchantID": 0,
+      "nItemIndex": 23,
+      "nStrengthLevel": 0
+    }
+  ]
+}
